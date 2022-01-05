@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    margin-left: 7%;
+}
+h1{
+    font-size: 40px;
+}
+#margin-22{
+   border-left: solid;
+   border-width: medium;
+  border-spacing: 10px;
+   
+ 
+}
+#mission-22{
+    color: rgba(243, 162, 11, 0.829);
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
+#mission-margin{
+    margin-top: 5%;
+}
+.button{
+    color:white;
+    background-color: rgb(255, 102, 0);
+    padding: 7px 20px;
+    border-radius: 10Px;
+}
+#color2022{
+    color: rgb(245, 172, 16);
+}
+#align-mission{
+    text-align: center;
+  }
+#bgcolor{
+    background-color: black;
+  
+}
+#white-mission{
+    color: white;
+}
+#orange-22{
+    color: orange;
+}
+footer{
+    text-align: center;
+}
