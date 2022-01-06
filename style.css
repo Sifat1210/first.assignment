@@ -3,21 +3,8 @@ body{
 }
 section{
     display: flex;
-    margin-left: 7%;
-}
-h1{
-    font-size: 40px;
-}
-#margin-22{
-   border-left: solid;
-   border-color: orangered;
-  padding-left: 10px;
-  border-radius: 5px;
-   
- 
-}
-#mission-22{
-    color: rgba(243, 162, 11, 0.829);
+    margin-left: 8%;   
+    margin-right: 7%;
 }
 .half-width{
     width: 50%;
@@ -25,8 +12,23 @@ h1{
 .half-width img{
     width: 70%;
 }
-#mission-margin{
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 20px;
+}
+#margin1{
     margin-top: 5%;
+}
+#Focused-on{
+   border-left: solid;
+   border-color: orangered;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+#mission-22{
+    color: rgba(243, 162, 11, 0.829);
 }
 .button{
     color:white;
@@ -35,36 +37,71 @@ h1{
     border: solid white;
     border-radius: 10Px;
 }
-#color2022{
+#align-mission-in{
+    text-align: center;
+ }
+ #my-mission-color{
+    color: green;
+}
+#color-2022{
     color: rgb(245, 172, 16);
 }
-#align-mission{
-    text-align: center;
-  }
-#bgcolor{
-    background-color: black;
-  
+
+
+
+
+
+
+
+.half-three{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+    width: 33%;
+    box-shadow: 10px 10px 15px gray;
+    background-color: rgba(255, 217, 0, 0.267);
+    
 }
-#white-mission{
-    color: white;
+.half-three img{
+    width: 30%;
+    padding-right: 20px;
 }
-#orange-22{
-    color: orange;
+
+
+
+
+
+.half-width-2{
+    width: 50%;
 }
-footer{
-    text-align: center;
+.half-width-2 img{
+    width: 100%;
 }
-.box-shadow{
-    box-shadow: 5px 10px 5px gray;
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-left: 10px;
-    border-radius: 10px;
+#coding-margin-top{
+    margin-top: 40px;
+    margin-bottom: 50px;
 }
-.topmarg{
-    margin-top: 50px;
+#text-margin-right{
+   margin-right: 200px;
+   margin-left: 50px;
+   padding: 20px;
 }
-#bgcolor1{
-  background-color: rgba(255, 0, 0, 0.103);
+
+
+
+.half-width-3{
+    width: 50%;
 }
+.half-width-3 img{
+    width: 100%;
+ 
+}
+
+.text-margin-project{
+ padding-right: 80px;
+}
+
+
